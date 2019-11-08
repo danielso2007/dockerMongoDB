@@ -1,0 +1,360 @@
+{
+    "name": "Alderaan",
+    "climate": "temperate",
+    "terrain": "grasslands, mountains",
+    "films": 2
+}
+{
+    "name": "Yavin IV",
+    "climate": "temperate, tropical",
+    "terrain": "jungle, rainforests",
+    "films": 1
+}
+{
+    "name": "Hoth",
+    "climate": "frozen",
+    "terrain": "tundra, ice caves, mountain ranges",
+    "films": 1
+}
+{
+    "name": "Dagobah",
+    "climate": "murky",
+    "terrain": "swamp, jungles",
+    "films": 3
+}
+{
+    "name": "Bespin",
+    "climate": "temperate",
+    "terrain": "gas giant",
+    "films": 1
+}
+{
+    "name": "Endor",
+    "climate": "temperate",
+    "terrain": "forests, mountains, lakes",
+    "films": 1
+}
+{
+    "name": "Naboo",
+    "climate": "temperate",
+    "terrain": "grassy hills, swamps, forests, mountains",
+    "films": 4
+}
+{
+    "name": "Coruscant",
+    "climate": "temperate",
+    "terrain": "cityscape, mountains",
+    "films": 4
+}
+{
+    "name": "Kamino",
+    "climate": "temperate",
+    "terrain": "ocean",
+    "films": 1
+}
+{
+    "name": "Geonosis",
+    "climate": "temperate, arid",
+    "terrain": "rock, desert, mountain, barren",
+    "films": 1
+}
+{
+    "name": "Utapau",
+    "climate": "temperate, arid, windy",
+    "terrain": "scrublands, savanna, canyons, sinkholes",
+    "films": 1
+}
+{
+    "name": "Mustafar",
+    "climate": "hot",
+    "terrain": "volcanoes, lava rivers, mountains, caves",
+    "films": 1
+}
+{
+    "name": "Kashyyyk",
+    "climate": "tropical",
+    "terrain": "jungle, forests, lakes, rivers",
+    "films": 1
+}
+{
+    "name": "Polis Massa",
+    "climate": "artificial temperate ",
+    "terrain": "airless asteroid",
+    "films": 1
+}
+{
+    "name": "Mygeeto",
+    "climate": "frigid",
+    "terrain": "glaciers, mountains, ice canyons",
+    "films": 1
+}
+{
+    "name": "Felucia",
+    "climate": "hot, humid",
+    "terrain": "fungus forests",
+    "films": 1
+}
+{
+    "name": "Cato Neimoidia",
+    "climate": "temperate, moist",
+    "terrain": "mountains, fields, forests, rock arches",
+    "films": 1
+}
+{
+    "name": "Saleucami",
+    "climate": "hot",
+    "terrain": "caves, desert, mountains, volcanoes",
+    "films": 1
+}
+{
+    "name": "Stewjon",
+    "climate": "temperate",
+    "terrain": "grass",
+    "films": 0
+}
+{
+    "name": "Eriadu",
+    "climate": "polluted",
+    "terrain": "cityscape",
+    "films": 0
+}
+{
+    "name": "Corellia",
+    "climate": "temperate",
+    "terrain": "plains, urban, hills, forests",
+    "films": 0
+}
+{
+    "name": "Rodia",
+    "climate": "hot",
+    "terrain": "jungles, oceans, urban, swamps",
+    "films": 0
+}
+{
+    "name": "Nal Hutta",
+    "climate": "temperate",
+    "terrain": "urban, oceans, swamps, bogs",
+    "films": 0
+}
+{
+    "name": "Dantooine",
+    "climate": "temperate",
+    "terrain": "oceans, savannas, mountains, grasslands",
+    "films": 0
+}
+{
+    "name": "Bestine IV",
+    "climate": "temperate",
+    "terrain": "rocky islands, oceans",
+    "films": 0
+}
+{
+    "name": "Ord Mantell",
+    "climate": "temperate",
+    "terrain": "plains, seas, mesas",
+    "films": 1
+}
+{
+    "name": "Trandosha",
+    "climate": "arid",
+    "terrain": "mountains, seas, grasslands, deserts",
+    "films": 0
+}
+{
+    "name": "Socorro",
+    "climate": "arid",
+    "terrain": "deserts, mountains",
+    "films": 0
+}
+{
+    "name": "Mon Cala",
+    "climate": "temperate",
+    "terrain": "oceans, reefs, islands",
+    "films": 0
+}
+{
+    "name": "Chandrila",
+    "climate": "temperate",
+    "terrain": "plains, forests",
+    "films": 0
+}
+{
+    "name": "Sullust",
+    "climate": "superheated",
+    "terrain": "mountains, volcanoes, rocky deserts",
+    "films": 0
+}
+{
+    "name": "Toydaria",
+    "climate": "temperate",
+    "terrain": "swamps, lakes",
+    "films": 0
+}
+{
+    "name": "Malastare",
+    "climate": "arid, temperate, tropical",
+    "terrain": "swamps, deserts, jungles, mountains",
+    "films": 0
+}
+{
+    "name": "Dathomir",
+    "climate": "temperate",
+    "terrain": "forests, deserts, savannas",
+    "films": 0
+}
+{
+    "name": "Ryloth",
+    "climate": "temperate, arid, subartic",
+    "terrain": "mountains, valleys, deserts, tundra",
+    "films": 0
+}
+{
+    "name": "Aleen Minor",
+    "climate": "unknown",
+    "terrain": "unknown",
+    "films": 0
+}
+{
+    "name": "Vulpter",
+    "climate": "temperate, artic",
+    "terrain": "urban, barren",
+    "films": 0
+}
+{
+    "name": "Troiken",
+    "climate": "unknown",
+    "terrain": "desert, tundra, rainforests, mountains",
+    "films": 0
+}
+{
+    "name": "Tund",
+    "climate": "unknown",
+    "terrain": "barren, ash",
+    "films": 0
+}
+{
+    "name": "Haruun Kal",
+    "climate": "temperate",
+    "terrain": "toxic cloudsea, plateaus, volcanoes",
+    "films": 0
+}
+{
+    "name": "Cerea",
+    "climate": "temperate",
+    "terrain": "verdant",
+    "films": 0
+}
+{
+    "name": "Glee Anselm",
+    "climate": "tropical, temperate",
+    "terrain": "lakes, islands, swamps, seas",
+    "films": 0
+}
+{
+    "name": "Iridonia",
+    "climate": "unknown",
+    "terrain": "rocky canyons, acid pools",
+    "films": 0
+}
+{
+    "name": "Tholoth",
+    "climate": "unknown",
+    "terrain": "unknown",
+    "films": 0
+}
+{
+    "name": "Iktotch",
+    "climate": "arid, rocky, windy",
+    "terrain": "rocky",
+    "films": 0
+}
+{
+    "name": "Quermia",
+    "climate": "unknown",
+    "terrain": "unknown",
+    "films": 0
+}
+{
+    "name": "Dorin",
+    "climate": "temperate",
+    "terrain": "unknown",
+    "films": 0
+}
+{
+    "name": "Champala",
+    "climate": "temperate",
+    "terrain": "oceans, rainforests, plateaus",
+    "films": 0
+}
+{
+    "name": "Mirial",
+    "climate": "unknown",
+    "terrain": "deserts",
+    "films": 0
+}
+{
+    "name": "Serenno",
+    "climate": "unknown",
+    "terrain": "rainforests, rivers, mountains",
+    "films": 0
+}
+{
+    "name": "Concord Dawn",
+    "climate": "unknown",
+    "terrain": "jungles, forests, deserts",
+    "films": 0
+}
+{
+    "name": "Zolan",
+    "climate": "unknown",
+    "terrain": "unknown",
+    "films": 0
+}
+{
+    "name": "Ojom",
+    "climate": "frigid",
+    "terrain": "oceans, glaciers",
+    "films": 0
+}
+{
+    "name": "Skako",
+    "climate": "temperate",
+    "terrain": "urban, vines",
+    "films": 0
+}
+{
+    "name": "Muunilinst",
+    "climate": "temperate",
+    "terrain": "plains, forests, hills, mountains",
+    "films": 0
+}
+{
+    "name": "Shili",
+    "climate": "temperate",
+    "terrain": "cities, savannahs, seas, plains",
+    "films": 0
+}
+{
+    "name": "Kalee",
+    "climate": "arid, temperate, tropical",
+    "terrain": "rainforests, cliffs, canyons, seas",
+    "films": 0
+}
+{
+    "name": "Umbara",
+    "climate": "unknown",
+    "terrain": "unknown",
+    "films": 0
+}
+{
+    "name": "Tatooine",
+    "climate": "arid",
+    "terrain": "desert",
+    "films": 5
+}
+{
+    "name": "Jakku",
+    "climate": "unknown",
+    "terrain": "deserts",
+    "films": 1
+}
