@@ -1,3 +1,15 @@
+![GitHub package version](https://img.shields.io/github/package-json/v/danielso2007/dockerMongoDB.svg)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/danielso2007/dockerMongoDB.svg)](https://github.com/danielso2007/dockerMongoDB/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/danielso2007/dockerMongoDB.svg)](https://github.com/danielso2007/dockerMongoDB/issues?q=is%3Aopen+is%3Aissue)
+![GitHub last commit](https://img.shields.io/github/last-commit/danielso2007/dockerMongoDB.svg)
+[![GitHub issue/pull request author](https://img.shields.io/github/issues/detail/u/danielso2007/dockerMongoDB/1.svg)](https://github.com/danielso2007/dockerMongoDB/pulls)
+![GitHub contributors](https://img.shields.io/github/contributors/danielso2007/dockerMongoDB.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/danielso2007/dockerMongoDB.svg)
+[![GitHub](https://img.shields.io/github/license/danielso2007/dockerMongoDB.svg)](https://github.com/danielso2007/dockerMongoDB)
+[![GitHub All Releases](https://img.shields.io/github/downloads/danielso2007/dockerMongoDB/total.svg)](https://github.com/danielso2007/dockerMongoDB/archive/master.zip)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+
+
 # Docker MongoDB
 
 Arquivo docker-compose para iniciar um container Docker com MongoDB. Também são apresentados arquivos shell script para auxiliar no dump, restore, importação e exportação de dados dentro do container. Mais abaixo, explicações de como usar essas arquivos.
