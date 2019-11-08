@@ -117,6 +117,7 @@ Para modifcar as permissões das pasta do volume, execite `./permissao_data.sh`.
 * [Mongo-Express - Docker Official Images](https://hub.docker.com/_/mongo-express)
 * [Docker](https://www.docker.com/)
 * [Overview of Docker Compose](https://docs.docker.com/compose/)
+* [Standard-version](https://github.com/conventional-changelog/standard-version)
 
 
 ## Contributing
