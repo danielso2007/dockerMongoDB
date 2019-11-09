@@ -1,0 +1,55 @@
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a9e3a"},"name": "grasslands","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a9e4a"},"name": "mountains","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a9e5a"},"name": "jungle","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a9e6a"},"name": "rainforests","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a9e7a"},"name": "tundra","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a9e8a"},"name": "ice caves","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a910a"},"name": "mountain ranges","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a911a"},"name": "swamp","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a912a"},"name": "gas giant","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a913a"},"name": "lakes","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a914a"},"name": "grassy hills","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a915a"},"name": "forests","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a916a"},"name": "cityscape","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a917a"},"name": "ocean","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a918a"},"name": "rock","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a919a"},"name": "desert","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a920a"},"name": "barren","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a921a"},"name": "scrublands","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a922a"},"name": "savanna","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a923a"},"name": "canyons","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a924a"},"name": "sinkholes","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a925a"},"name": "volcanoes","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a926a"},"name": "lava rivers","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a927a"},"name": "caves","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a928a"},"name": "rivers","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a929a"},"name": "airless asteroid","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a930a"},"name": "glaciers","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a931a"},"name": "ice canyons","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a932a"},"name": "fungus forests","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a933a"},"name": "fields","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a934a"},"name": "rock arches","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a935a"},"name": "grass","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a936a"},"name": "plains","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a937a"},"name": "urban","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a938a"},"name": "hills","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a939a"},"name": "swamps","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a940a"},"name": "bogs","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a941a"},"name": "savannas","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a942a"},"name": "rocky islands","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a943a"},"name": "seas","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a944a"},"name": "mesas","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a945a"},"name": "reefs","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a946a"},"name": "islands","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a947a"},"name": "rocky deserts","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a948a"},"name": "valleys","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a949a"},"name": "unknown","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a950a"},"name": "ash","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a951a"},"name": "toxic cloudsea","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a952a"},"name": "plateaus","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a953a"},"name": "verdant","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a954a"},"name": "acid pools","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a955a"},"name": "rocky","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a956a"},"name": "vines","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a957a"},"name": "cities","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "5dc4c9734e9b1214ed7a958a"},"name": "cliffs","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}

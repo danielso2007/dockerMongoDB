@@ -1,360 +1,480 @@
 {
     "name": "Alderaan",
-    "climate": "temperate",
-    "terrain": "grasslands, mountains",
-    "films": 2
+    "climate": ["temperate"],
+    "terrain": ["grasslands", "mountains"],
+    "films": 2,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Yavin IV",
-    "climate": "temperate, tropical",
-    "terrain": "jungle, rainforests",
-    "films": 1
+    "climate": [["temperate"], "tropical"],
+    "terrain": ["jungle", "rainforests"],
+    "films": 1,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Hoth",
-    "climate": "frozen",
-    "terrain": "tundra, ice caves, mountain ranges",
-    "films": 1
+    "climate": ["frozen"],
+    "terrain": ["tundra", "ice caves", "mountain ranges"],
+    "films": 1,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Dagobah",
-    "climate": "murky",
-    "terrain": "swamp, jungles",
-    "films": 3
+    "climate": ["murky"],
+    "terrain": ["swamp", "jungles"],
+    "films": 3,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Bespin",
-    "climate": "temperate",
-    "terrain": "gas giant",
-    "films": 1
+    "climate": ["temperate"],
+    "terrain": ["gas giant"],
+    "films": 1,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Endor",
-    "climate": "temperate",
-    "terrain": "forests, mountains, lakes",
-    "films": 1
+    "climate": ["temperate"],
+    "terrain": ["forests", "mountains", "lakes"],
+    "films": 1,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Naboo",
-    "climate": "temperate",
-    "terrain": "grassy hills, swamps, forests, mountains",
-    "films": 4
+    "climate": ["temperate"],
+    "terrain": ["grassy hills", "swamps", "forests", "mountains"],
+    "films": 4,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Coruscant",
-    "climate": "temperate",
-    "terrain": "cityscape, mountains",
-    "films": 4
+    "climate": ["temperate"],
+    "terrain": ["cityscape", "mountains"],
+    "films": 4,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Kamino",
-    "climate": "temperate",
-    "terrain": "ocean",
-    "films": 1
+    "climate": ["temperate"],
+    "terrain": ["ocean"],
+    "films": 1,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Geonosis",
-    "climate": "temperate, arid",
-    "terrain": "rock, desert, mountain, barren",
-    "films": 1
+    "climate": ["temperate", "arid"],
+    "terrain": ["rock", "desert", "mountain", "barren"],
+    "films": 1,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Utapau",
-    "climate": "temperate, arid, windy",
-    "terrain": "scrublands, savanna, canyons, sinkholes",
-    "films": 1
+    "climate": ["temperate", "arid", "windy"],
+    "terrain": ["scrublands", "savanna", "canyons", "sinkholes"],
+    "films": 1,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Mustafar",
-    "climate": "hot",
-    "terrain": "volcanoes, lava rivers, mountains, caves",
-    "films": 1
+    "climate": ["hot"],
+    "terrain": ["volcanoes", "lava rivers", "mountains", "caves"],
+    "films": 1,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Kashyyyk",
-    "climate": "tropical",
-    "terrain": "jungle, forests, lakes, rivers",
-    "films": 1
+    "climate": ["tropical"],
+    "terrain": ["jungle", "forests", "lakes", "rivers"],
+    "films": 1,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Polis Massa",
-    "climate": "artificial temperate ",
-    "terrain": "airless asteroid",
-    "films": 1
+    "climate": ["artificial temperate"],
+    "terrain": ["airless asteroid"],
+    "films": 1,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Mygeeto",
-    "climate": "frigid",
-    "terrain": "glaciers, mountains, ice canyons",
-    "films": 1
+    "climate": ["frigid"],
+    "terrain": ["glaciers", "mountains", "ice canyons"],
+    "films": 1,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Felucia",
-    "climate": "hot, humid",
-    "terrain": "fungus forests",
-    "films": 1
+    "climate": ["hot", "humid"],
+    "terrain": ["fungus forests"],
+    "films": 1,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Cato Neimoidia",
-    "climate": "temperate, moist",
-    "terrain": "mountains, fields, forests, rock arches",
-    "films": 1
+    "climate": ["temperate", "moist"],
+    "terrain": ["mountains", "fields", "forests", "rock arches"],
+    "films": 1,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Saleucami",
-    "climate": "hot",
-    "terrain": "caves, desert, mountains, volcanoes",
-    "films": 1
+    "climate": ["hot"],
+    "terrain": ["caves", "desert", "mountains", "volcanoes"],
+    "films": 1,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Stewjon",
-    "climate": "temperate",
-    "terrain": "grass",
-    "films": 0
+    "climate": ["temperate"],
+    "terrain": ["grass"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Eriadu",
-    "climate": "polluted",
-    "terrain": "cityscape",
-    "films": 0
+    "climate": ["polluted"],
+    "terrain": ["cityscape"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Corellia",
-    "climate": "temperate",
-    "terrain": "plains, urban, hills, forests",
-    "films": 0
+    "climate": ["temperate"],
+    "terrain": ["plains", "urban", "hills", "forests"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Rodia",
-    "climate": "hot",
-    "terrain": "jungles, oceans, urban, swamps",
-    "films": 0
+    "climate": ["hot"],
+    "terrain": ["jungles", "oceans", "urban", "swamps"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Nal Hutta",
-    "climate": "temperate",
-    "terrain": "urban, oceans, swamps, bogs",
-    "films": 0
+    "climate": ["temperate"],
+    "terrain": ["urban", "oceans", "swamps", "bogs"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Dantooine",
-    "climate": "temperate",
-    "terrain": "oceans, savannas, mountains, grasslands",
-    "films": 0
+    "climate": ["temperate"],
+    "terrain": ["oceans", "savannas", "mountains", "grasslands"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Bestine IV",
-    "climate": "temperate",
-    "terrain": "rocky islands, oceans",
-    "films": 0
+    "climate": ["temperate"],
+    "terrain": ["rocky islands", "oceans"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Ord Mantell",
-    "climate": "temperate",
-    "terrain": "plains, seas, mesas",
-    "films": 1
+    "climate": ["temperate"],
+    "terrain": ["plains", "seas", "mesas"],
+    "films": 1,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Trandosha",
-    "climate": "arid",
-    "terrain": "mountains, seas, grasslands, deserts",
-    "films": 0
+    "climate": ["arid"],
+    "terrain": ["mountains", "seas", "grasslands", "deserts"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Socorro",
-    "climate": "arid",
-    "terrain": "deserts, mountains",
-    "films": 0
+    "climate": ["arid"],
+    "terrain": ["deserts", "mountains"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Mon Cala",
-    "climate": "temperate",
-    "terrain": "oceans, reefs, islands",
-    "films": 0
+    "climate": ["temperate"],
+    "terrain": ["oceans", "reefs", "islands"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Chandrila",
-    "climate": "temperate",
-    "terrain": "plains, forests",
-    "films": 0
+    "climate": ["temperate"],
+    "terrain": ["plains", "forests"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Sullust",
-    "climate": "superheated",
-    "terrain": "mountains, volcanoes, rocky deserts",
-    "films": 0
+    "climate": ["superheated"],
+    "terrain": ["mountains", "volcanoes", "rocky deserts"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Toydaria",
-    "climate": "temperate",
-    "terrain": "swamps, lakes",
-    "films": 0
+    "climate": ["temperate"],
+    "terrain": ["swamps", "lakes"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Malastare",
-    "climate": "arid, temperate, tropical",
-    "terrain": "swamps, deserts, jungles, mountains",
-    "films": 0
+    "climate": ["arid", "temperate", "tropical"],
+    "terrain": ["swamps", "deserts", "jungles", "mountains"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Dathomir",
-    "climate": "temperate",
-    "terrain": "forests, deserts, savannas",
-    "films": 0
+    "climate": ["temperate"],
+    "terrain": ["forests", "deserts", "savannas"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Ryloth",
-    "climate": "temperate, arid, subartic",
-    "terrain": "mountains, valleys, deserts, tundra",
-    "films": 0
+    "climate": ["temperate", "arid", "subartic"],
+    "terrain": ["mountains", "valleys", "deserts", "tundra"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Aleen Minor",
-    "climate": "unknown",
-    "terrain": "unknown",
-    "films": 0
+    "climate": ["unknown"],
+    "terrain": ["unknown"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Vulpter",
-    "climate": "temperate, artic",
-    "terrain": "urban, barren",
-    "films": 0
+    "climate": ["temperate, artic"],
+    "terrain": ["urban", "barren"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Troiken",
-    "climate": "unknown",
-    "terrain": "desert, tundra, rainforests, mountains",
-    "films": 0
+    "climate": ["unknown"],
+    "terrain": ["desert", "tundra", "rainforests", "mountains"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Tund",
-    "climate": "unknown",
-    "terrain": "barren, ash",
-    "films": 0
+    "climate": ["unknown"],
+    "terrain": ["barren", "ash"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Haruun Kal",
-    "climate": "temperate",
-    "terrain": "toxic cloudsea, plateaus, volcanoes",
-    "films": 0
+    "climate": ["temperate"],
+    "terrain": ["toxic cloudsea", "plateaus", "volcanoes"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Cerea",
-    "climate": "temperate",
-    "terrain": "verdant",
-    "films": 0
+    "climate": ["temperate"],
+    "terrain": ["verdant"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Glee Anselm",
-    "climate": "tropical, temperate",
-    "terrain": "lakes, islands, swamps, seas",
-    "films": 0
+    "climate": ["tropical", "temperate"],
+    "terrain": ["lakes", "islands", "swamps", "seas"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Iridonia",
-    "climate": "unknown",
-    "terrain": "rocky canyons, acid pools",
-    "films": 0
+    "climate": ["unknown"],
+    "terrain": ["rocky canyons", "acid pools"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Tholoth",
-    "climate": "unknown",
-    "terrain": "unknown",
-    "films": 0
+    "climate": ["unknown"],
+    "terrain": ["unknown"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Iktotch",
-    "climate": "arid, rocky, windy",
-    "terrain": "rocky",
-    "films": 0
+    "climate": ["arid", "rocky", "windy"],
+    "terrain": ["rocky"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Quermia",
-    "climate": "unknown",
-    "terrain": "unknown",
-    "films": 0
+    "climate": ["unknown"],
+    "terrain": ["unknown"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Dorin",
-    "climate": "temperate",
-    "terrain": "unknown",
-    "films": 0
+    "climate": ["temperate"],
+    "terrain": ["unknown"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Champala",
-    "climate": "temperate",
-    "terrain": "oceans, rainforests, plateaus",
-    "films": 0
+    "climate": ["temperate"],
+    "terrain": ["oceans", "rainforests", "plateaus"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Mirial",
-    "climate": "unknown",
-    "terrain": "deserts",
-    "films": 0
+    "climate": ["unknown"],
+    "terrain": ["deserts"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Serenno",
-    "climate": "unknown",
-    "terrain": "rainforests, rivers, mountains",
-    "films": 0
+    "climate": ["unknown"],
+    "terrain": ["rainforests", "rivers", "mountains"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Concord Dawn",
-    "climate": "unknown",
-    "terrain": "jungles, forests, deserts",
-    "films": 0
+    "climate": ["unknown"],
+    "terrain": ["jungles", "forests", "deserts"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Zolan",
-    "climate": "unknown",
-    "terrain": "unknown",
-    "films": 0
+    "climate": ["unknown"],
+    "terrain": ["unknown"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Ojom",
-    "climate": "frigid",
-    "terrain": "oceans, glaciers",
-    "films": 0
+    "climate": ["frigid"],
+    "terrain": ["oceans", "glaciers"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Skako",
-    "climate": "temperate",
-    "terrain": "urban, vines",
-    "films": 0
+    "climate": ["temperate"],
+    "terrain": ["urban", "vines"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Muunilinst",
-    "climate": "temperate",
-    "terrain": "plains, forests, hills, mountains",
-    "films": 0
+    "climate": ["temperate"],
+    "terrain": ["plains", "forests", "hills", "mountains"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Shili",
-    "climate": "temperate",
-    "terrain": "cities, savannahs, seas, plains",
-    "films": 0
+    "climate": ["temperate"],
+    "terrain": ["cities", "savannahs", "seas", "plains"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Kalee",
-    "climate": "arid, temperate, tropical",
-    "terrain": "rainforests, cliffs, canyons, seas",
-    "films": 0
+    "climate": ["arid", "temperate", "tropical"],
+    "terrain": ["rainforests", "cliffs", "canyons", "seas"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Umbara",
-    "climate": "unknown",
-    "terrain": "unknown",
-    "films": 0
+    "climate": ["unknown"],
+    "terrain": ["unknown"],
+    "films": 0,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Tatooine",
-    "climate": "arid",
-    "terrain": "desert",
-    "films": 5
+    "climate": ["arid"],
+    "terrain": ["desert"],
+    "films": 5,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }
 {
     "name": "Jakku",
-    "climate": "unknown",
-    "terrain": "deserts",
-    "films": 1
+    "climate": ["unknown"],
+    "terrain": ["deserts"],
+    "films": 1,
+    "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
+    "creator": "system"
 }

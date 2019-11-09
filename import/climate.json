@@ -1,0 +1,17 @@
+{"_id": {"$oid": "1dc4c9734e9b1214ed71000a"},"name": "temperate","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "1dc4c9734e9b1214ed71001a"},"name": "tropical","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "1dc4c9734e9b1214ed71002a"},"name": "frozen","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "1dc4c9734e9b1214ed71003a"},"name": "murky","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "1dc4c9734e9b1214ed71004a"},"name": "arid","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "1dc4c9734e9b1214ed71005a"},"name": "windy","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "1dc4c9734e9b1214ed71006a"},"name": "hot","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "1dc4c9734e9b1214ed71007a"},"name": "artificial temperate","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "1dc4c9734e9b1214ed71008a"},"name": "frigid","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "1dc4c9734e9b1214ed71009a"},"name": "humid","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "1dc4c9734e9b1214ed71010a"},"name": "moist","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "1dc4c9734e9b1214ed71011a"},"name": "polluted","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "1dc4c9734e9b1214ed71012a"},"name": "superheated","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "1dc4c9734e9b1214ed71013a"},"name": "subartic","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "1dc4c9734e9b1214ed71014a"},"name": "unknown","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "1dc4c9734e9b1214ed71015a"},"name": "artic","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
+{"_id": {"$oid": "1dc4c9734e9b1214ed71016a"},"name": "rocky","status": 1, "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"}, "creator": "system"}
