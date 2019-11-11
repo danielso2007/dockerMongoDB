@@ -8,7 +8,7 @@
 }
 {
     "name": "Yavin IV",
-    "climate": [["temperate"], "tropical"],
+    "climate": ["temperate", "tropical"],
     "terrain": ["jungle", "rainforests"],
     "films": 1,
     "createdAt": { "$date" : "2019-11-08T12:00:00.212Z"},
