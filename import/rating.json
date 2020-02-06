@@ -1,0 +1,114 @@
+{
+    "bookId": "5dc4c9734e9b1214ed7a9e3a",
+    "stars": 4,
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "bookId": "5dc4c9734e9b1214ed7a9e4a",
+    "stars": 5,
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "bookId": "5dc4c9734e9b1214ed7a9e5a",
+    "stars": 2,
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "bookId": "5dc4c9734e9b1214ed7a9e6a",
+    "stars": 5,
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "bookId": "5dc4c9734e9b1214ed7a9e7a",
+    "stars": 5,
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "bookId": "5dc4c9734e9b1214ed7a9e8a",
+    "stars": 4,
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "bookId": "5dc4c9734e9b1214ed8a9e8a",
+    "stars": 4,
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "bookId": "5dc4c9734e9b1215ed8a9e8a",
+    "stars": 4,
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "bookId": "5dc4c9734e9b1216ed8a9e8a",
+    "stars": 4,
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "bookId": "5dc4c9734e9b1217ed8a9e8a",
+    "stars": 4,
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "bookId": "5dc4c9734e9b1317ed8a9e8a",
+    "stars": 4,
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "bookId": "5dc4c9734e9b1327ed8a9e8a",
+    "stars": 4,
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "bookId": "5dc4c9734e9b1337ed8a9e8a",
+    "stars": 4,
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "bookId": "5dc4c9734e9b1347ed8a9e8a",
+    "stars": 4,
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "bookId": "5dc4c9734e9b1357ed8a9e8a",
+    "stars": 4,
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "bookId": "5dc4c9734e9b1367ed8a9e8a",
+    "stars": 4,
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "bookId": "5dc4c9734e9b1377ed8a9e8a",
+    "stars": 5,
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "bookId": "5dc4c9734e9b1477ed8a9e8a",
+    "stars": 5,
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "bookId": "5dc4c9734e9b1487ed8a9e8a",
+    "stars": 5,
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}

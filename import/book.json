@@ -1,0 +1,133 @@
+{
+    "_id": {"$oid": "5dc4c9734e9b1214ed7a9e3a"},
+    "title": "Sítio do Pica-Pau Amarelo",
+    "author": "Monteiro Lobato",
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "_id": {"$oid": "5dc4c9734e9b1214ed7a9e4a"},
+    "title": "O Guarani",
+    "author": "José de Alencar",
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "_id": {"$oid": "5dc4c9734e9b1214ed7a9e5a"},
+    "title": "Espectros",
+    "author": "Cecília Meireles",
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "_id": {"$oid": "5dc4c9734e9b1214ed7a9e6a"},
+    "title": "A Rosa do Povo",
+    "author": "Carlos Drummond de Andrade",
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "_id": {"$oid": "5dc4c9734e9b1214ed7a9e7a"},
+    "title": "Dom Casmurro",
+    "author": "Machado de Assis",
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "_id": {"$oid": "5dc4c9734e9b1214ed7a9e8a"},
+    "title": "Perto do Coração Selvagem",
+    "author": "Clarice Lispector",
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "_id": {"$oid": "5dc4c9734e9b1214ed8a9e8a"},
+    "title": "Morte e Vida Severina",
+    "author": "João Cabral de Melo Neto",
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "_id": {"$oid": "5dc4c9734e9b1215ed8a9e8a"},
+    "title": "Grande Sertão Veredas",
+    "author": "Guimarães Rosa",
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "_id": {"$oid": "5dc4c9734e9b1216ed8a9e8a"},
+    "title": "Vidas Secas",
+    "author": "Graciliano Ramos",
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "_id": {"$oid": "5dc4c9734e9b1217ed8a9e8a"},
+    "title": "Marcelo, Marmelo, Martelo",
+    "author": "Ruth Rocha",
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "_id": {"$oid": "5dc4c9734e9b1317ed8a9e8a"},
+    "title": "A Grande Mulher Nua",
+    "author": "Luis Fernando Veríssimo",
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "_id": {"$oid": "5dc4c9734e9b1327ed8a9e8a"},
+    "title": "Bem do Seu Tamanho",
+    "author": "Ana Maria Machado",
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "_id": {"$oid": "5dc4c9734e9b1337ed8a9e8a"},
+    "title": "Benjamim",
+    "author": "Chico Buarque de Holanda",
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "_id": {"$oid": "5dc4c9734e9b1347ed8a9e8a"},
+    "title": "Miguel de Cervantes",
+    "author": "Dom Quixote",
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "_id": {"$oid": "5dc4c9734e9b1357ed8a9e8a"},
+    "title": "Liev Tolstói",
+    "author": "Guerra e Paz",
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "_id": {"$oid": "5dc4c9734e9b1367ed8a9e8a"},
+    "title": "A Montanha Mágica",
+    "author": "Thomas Mann",
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "_id": {"$oid": "5dc4c9734e9b1377ed8a9e8a"},
+    "title": "Cem Anos de Solidão",
+    "author": "Gabriel García Márquez",
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "_id": {"$oid": "5dc4c9734e9b1477ed8a9e8a"},
+    "title": "Em Busca do Tempo Perdido",
+    "author": "Marcel Proust",
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
+{
+    "_id": {"$oid": "5dc4c9734e9b1487ed8a9e8a"},
+    "title": "A Divina Comédia",
+    "author": "Dante Alighieri",
+    "createdAt": { "$date" : "2020-01-06T12:00:00.212Z"},
+    "creator": "Anonymous"
+}
