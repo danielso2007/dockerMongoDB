@@ -3,8 +3,8 @@ version: '3.7'
 services:
 
   mongo:
-    image: mongo
-    restart: always
+    image: mongo:latest
+    restart: no # always
     container_name: mongo
     environment:
       MONGO_INITDB_ROOT_USERNAME: root
@@ -20,8 +20,8 @@ services:
       - db
 
   mongo-express:
-    image: mongo-express
-    restart: always
+    image: mongo-express:latest
+    restart: no # always
     container_name: mongo-express
     ports:
       - 8081:8081
