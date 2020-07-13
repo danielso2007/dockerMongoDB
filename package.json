@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/danielso2007/dockerMongoDB#readme",
   "devDependencies": {
-    "standard-version": "^7.0.0"
+    "standard-version": "^8.0.1"
   }
 }
