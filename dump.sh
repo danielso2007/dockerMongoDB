@@ -40,7 +40,7 @@ function PEDIR_INFORMACOES_USUARIO()
 }
 
 function DUMP() {
-    docker exec -it mongo bash -c "mongodump -u ${USERNAME} -p ${PASSWORD} --authenticationDatabase admin --verbose --gzip --db starwarsdb --out ${DIR}`date +"%y-%m-%d"`"
+    docker exec -it mongo bash -c "mongodump -u ${USERNAME} -p ${PASSWORD} --authenticationDatabase admin --verbose --gzip --db ${dataBaseName} --out ${DIR}`date +"%y-%m-%d"`"
     echo -e "Criado backup em: ${Green}$2`date +"%y-%m-%d"`/$1${NC}"
 }
 
