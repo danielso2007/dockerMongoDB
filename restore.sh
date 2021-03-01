@@ -25,7 +25,7 @@ function INFORMAR_DATA_BASE() {
     while [ $valid ]
     do
         echo -e "${Light_Blue}Infome o nome do banco de dados:${NC}"
-        read dataBaseName
+        read -r dataBaseName
         if [[ -z "$dataBaseName" ]]
         then
             echo -e "${Yellow}Database não informado, usar:${NC} ${Green}starwarsdb${NC}"
@@ -41,11 +41,11 @@ function INFORMAR_DATA() {
     while [ $valid ]
     do
         echo -e "${Light_Blue}Infome a data de restauração (YY-MM-DD):${NC}"
-        read dataBaseDate
+        read -r dataBaseDate
         if [[ -z "$dataBaseDate" ]]
         then
-            echo -e "${Yellow}Data do dump não informado, usar:${NC} ${Green}`date +"%y-%m-%d"`${NC}"
-            dataBaseDate=`date +"%y-%m-%d"`
+            echo -e "${Yellow}Data do dump não informado, usar:${NC} ${Green}$(date +"%y-%m-%d")${NC}"
+            dataBaseDate=$(date +"%y-%m-%d")
             break
         else
             break
