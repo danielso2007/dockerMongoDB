@@ -1,3 +1,4 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/danielso2007/dockermongodb/badge/master)](https://www.codefactor.io/repository/github/danielso2007/dockermongodb/overview/master)
 ![GitHub package version](https://img.shields.io/github/package-json/v/danielso2007/dockerMongoDB.svg)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/danielso2007/dockerMongoDB.svg)](https://github.com/danielso2007/dockerMongoDB/pulls)
 [![GitHub issues](https://img.shields.io/github/issues/danielso2007/dockerMongoDB.svg)](https://github.com/danielso2007/dockerMongoDB/issues?q=is%3Aopen+is%3Aissue)
