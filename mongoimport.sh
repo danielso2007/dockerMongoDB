@@ -25,7 +25,7 @@ function PEDIR_INFORMACOES_BANCO()
     while [ $valid ]
     do
         echo -e "${Light_Blue}Infome o nome do banco de dados:${NC}"
-        read dataBaseName
+        read -r dataBaseName
         if [[ -z "$dataBaseName" ]]
         then
             echo -e "${Yellow}Database não informado, usar:${NC} ${Green}starwarsdb${NC}"
@@ -42,7 +42,7 @@ function PEDIR_INFORMACOES_COLLECTION()
     while [ $valid ]
     do
         echo -e "${Light_Blue}Infome collection:${NC}"
-        read collection
+        read -r collection
         if [[ -z "$collection" ]]
         then
             echo -e "${Yellow}Collection não informado, usar:${NC} ${Green}planet${NC}"
@@ -59,7 +59,7 @@ function PEDIR_INFORMACOES_ARQUIVO()
     while [ $valid ]
     do
         echo -e "${Light_Blue}Infome o nome do arquivo JSON:${NC}"
-        read jsonName
+        read -r jsonName
         if [[ -z "$jsonName" ]]
         then
             echo -e "${Yellow}Nome do arquivo JSON não informado, usar:${NC} ${Green}planet.json${NC}"
