@@ -25,7 +25,7 @@ function PEDIR_INFORMACOES_BANCO()
     while [ $valid ]
     do
         echo -e "${Light_Blue}Infome o nome do banco de dados:${NC}"
-        read dataBaseName
+        read -r dataBaseName
         if [[ -z "$dataBaseName" ]]
         then
             echo -e "${RED}Você não informou o nome do banco de dados!${NC}"
@@ -40,7 +40,7 @@ function PEDIR_INFORMACOES_ARQUIVO()
     while [ $valid ]
     do
         echo -e "${Light_Blue}Infome o nome do arquivo JSON:${NC}"
-        read jsonName
+        read -r jsonName
         if [[ -z "$jsonName" ]]
         then
             echo -e "${Yellow}Nome do arquivo JSON não informado, usar:${NC} ${Green}dataset.json${NC}"
