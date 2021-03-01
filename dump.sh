@@ -26,7 +26,7 @@ function PEDIR_INFORMACOES_USUARIO()
     while [ $valid ]
     do
         echo -e "${Light_Blue}Infome o nome do banco de dados:${NC}"
-        read dataBaseName
+        read -r dataBaseName
         if [[ -z "$dataBaseName" ]]
         then
             echo -e "${Yellow}Database não informado, usar:${NC} ${Green}starwarsdb${NC}"
@@ -40,8 +40,8 @@ function PEDIR_INFORMACOES_USUARIO()
 }
 
 function DUMP() {
-    docker exec -it mongo bash -c "mongodump -u ${USERNAME} -p ${PASSWORD} --authenticationDatabase admin --verbose --gzip --db ${dataBaseName} --out ${DIR}`date +"%y-%m-%d"`"
-    echo -e "Criado backup em: ${Green}$2`date +"%y-%m-%d"`/$1${NC}"
+    docker exec -it mongo bash -c "mongodump -u ${USERNAME} -p ${PASSWORD} --authenticationDatabase admin --verbose --gzip --db ${dataBaseName} --out ${DIR}$(date +"%y-%m-%d")"
+    echo -e "Criado backup em: ${Green}$2$(date +"%y-%m-%d")/$1${NC}"
 }
 
 [ $# -eq 0 ] && { echo -e "${Light_Purple}Você também pode usar:${NC} ${Yellow}$0 nome_banco_dados.${NC}"; }
@@ -65,5 +65,5 @@ else
 fi
 
 ls -l ./data/dump
-ls -l ./data/dump/`date +"%y-%m-%d"`
+ls -l ./data/dump/$(date + "%y-%m-%d")
 echo -e "${Yellow}Dump finalizado!"
