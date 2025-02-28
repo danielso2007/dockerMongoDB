@@ -42,32 +42,34 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.24.1/docker-
 sudo chmod +x /usr/local/bin/docker-compose
 ```
 ```
-docker-compose --version
+docker compose --version
 ```
 
 ## Running
 
 Dentro da pasta onde está o arquivo docker-compose, execute o comando abaixo:
 ```
-docker-compose up -d
+docker compose up -d
 ```
 
 ### Stopping the docker
 
 Para encerrar o docker, execute o comando abaixo:
 ```
-docker-compose stop
+docker compose stop
 ```
 
 ### Accessing Mongo-Express
 
 Para acessar a interface administrativa do mondo express, acesse a URL abaixo:
 
-[http://swarm-ip:8081](http://swarm-ip:8081)
-
 [http://localhost:8081](http://localhost:8081)
 
-[http://host-ip:8081](http://host-ip:8081)
+- Username: `admin`
+- Password: `admin`
+
+
+![Terminal](./doc/2025-02-27_23-38.png)
 
 ## Deployment
 
